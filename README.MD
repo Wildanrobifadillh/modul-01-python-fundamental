@@ -42,7 +42,13 @@ modul-01-python-fundamental/
 │   └── src/
 │       ├── main.py
 │       └── nilai_siswa.py
-|
+├── sesi-05-validasi-angka-error/
+│   └── src/
+│       └── main.py
+├── sesi-06-perulangan-while/
+│   └── src/
+│       ├── main.py
+│       └── menu_sederhana
 ├── .env.example
 ├── .gitignore
 ├── README.md
